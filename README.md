@@ -1,16 +1,16 @@
-## Hi there 👋
+## fzsDL
+fzsDL aka the king
 
-<!--
-**fz-sDL765/fz-sDL765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What Im Into
 
-Here are some ideas to get you started:
+- **Reverse Engineering** — A Hobby
+- **Malware & Red Team** — Another Hobby
+- **Backend Dev** - Learning RN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+C · x64 Assembly · Golang (still learning Golang)
+
+## Find me
+
+- Well I dont use any type of social media
