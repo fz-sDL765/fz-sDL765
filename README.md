@@ -4,7 +4,7 @@ fzsDL aka the king
 ## What Im Into
 
 - **Reverse Engineering** — A Hobby
-- **Malware & Red Team** — Another Hobby
+- **Malware Development** — Another Hobby
 - **Backend Dev** - Learning RN
 
 ## Stack
